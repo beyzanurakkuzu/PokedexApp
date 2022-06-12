@@ -2,6 +2,7 @@ apply plugin: Plugins.application
 apply plugin: Plugins.kotlinAndroid
 apply plugin: Plugins.kotlinKapt
 apply plugin: 'kotlin-android'
+apply plugin: Plugins.kotlinParcelize
 
 android {
     compileSdkVersion ConfigData.compileSdkVersion

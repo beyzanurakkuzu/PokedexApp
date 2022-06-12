@@ -4,5 +4,5 @@ object Plugins {
     const val kotlinAndroidExtensions = "kotlin-android-extensions"
     const val kotlinKapt = "kotlin-kapt"
     const val navigationSafeArgs = "androidx.navigation.safeargs"
-
+    const val kotlinParcelize= "kotlin-parcelize"
 }
