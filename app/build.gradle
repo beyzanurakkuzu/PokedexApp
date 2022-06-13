@@ -47,6 +47,8 @@ dependencies {
     implementation "androidx.lifecycle:lifecycle-viewmodel-savedstate:$Versions.lifecycleVersion"
     implementation "androidx.room:room-runtime:$Versions.roomVersion"
     implementation "androidx.room:room-ktx:$Versions.roomVersion"
+    implementation 'androidx.appcompat:appcompat:1.4.2'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
     kapt "androidx.room:room-compiler:$Versions.roomVersion"
     testImplementation "androidx.arch.core:core-testing:$Versions.archCompomentVersion"
 
